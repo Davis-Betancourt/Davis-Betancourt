@@ -53,3 +53,4 @@ My journey in computer networking and cybersecurity has helped me build a strong
 ## Projects
 - <a href="https://github.com/Davis-Betancourt/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
+- Active Directory Lab
